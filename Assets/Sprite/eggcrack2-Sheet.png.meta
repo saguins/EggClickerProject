@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 51ef6f6211a4cc84e927a2735ead78a6
+guid: 9cb1e60314864854188e6795c5c26e8c
 TextureImporter:
   fileIDToRecycleName:
-    21300000: eggonly-Sheet_0
-    21300002: eggonly-Sheet_1
-    21300004: eggonly-Sheet_2
+    21300000: eggcrack2-Sheet_0
+    21300002: eggcrack2-Sheet_1
+    21300004: eggcrack2-Sheet_2
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -44,8 +44,8 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 1
-  spritePivot: {x: 0, y: 1}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -103,22 +103,11 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: eggonly-Sheet_0
+      name: eggcrack2-Sheet_0
       rect:
         serializedVersion: 2
         x: 8
@@ -132,13 +121,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba74223dd5b620349bdce5b6b54d0a05
+      spriteID: 49500025fbffc9140acfe3e2d6effafd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eggonly-Sheet_1
+      name: eggcrack2-Sheet_1
       rect:
         serializedVersion: 2
         x: 344
@@ -152,13 +141,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 700e6082b865a8b4197eaf0df2b2b355
+      spriteID: f9d56023e09899840b190814b87a87f6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eggonly-Sheet_2
+      name: eggcrack2-Sheet_2
       rect:
         serializedVersion: 2
         x: 698
@@ -172,7 +161,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 264c3fb44e30f8843b14728e576a7053
+      spriteID: f3fb72ccab574d240a42f350a95af6c2
       vertices: []
       indices: 
       edges: []
@@ -180,7 +169,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9d421dbc7e2c60049bd8b241c7348306
+    spriteID: 126826c83222d6048b3de06db43ccf24
     vertices: []
     indices: 
     edges: []
